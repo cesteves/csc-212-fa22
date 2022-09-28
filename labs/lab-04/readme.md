@@ -1,4 +1,4 @@
-# Lab 04: Dynamic Arrays
+# Lab 04: Linked Lists
 
 ##### Pointers & References
 
@@ -245,7 +245,7 @@ You should submit the following files:
 
 - linked-list.h
 - linked-list.cpp
-- node.hp
+- node.h
 - node.cpp
 - main.cpp
 - answers.txt (this file contains any answers to non-coding questions in this lab)
